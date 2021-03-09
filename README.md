@@ -18,7 +18,7 @@ The initial position of the target is set to 80m and the initial velocity is set
 
 <img src="1.Range from FFT 1D.jpg" width="700" />
 
-* Target Range detection from Fast Fourier Transform 1D and the detection is around 80 close to the initial position of the target
+Target Range detection from Fast Fourier Transform 1D and the detection is around 80 close to the initial position of the target
 
 <img src="2. Range Doppler Response.jpg" width="700" />
 
